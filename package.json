@@ -1,0 +1,14 @@
+{
+  "name": "simple-cli",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"no test\""
+  },
+  "author": "Nada",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^7.0.0"
+  }
+}
